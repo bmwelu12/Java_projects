@@ -1,2 +1,2 @@
 # Java_projects
-JAVA-GUI for Brandi- Bagel house order calculato
+JAVA-GUI for Brandi- Bagel house order calculator
